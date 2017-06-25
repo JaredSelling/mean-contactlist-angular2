@@ -13,7 +13,8 @@ import { ContactListComponent } from './contacts/contact-list/contact-list.compo
     ContactListComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
